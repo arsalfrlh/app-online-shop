@@ -14,7 +14,7 @@ akun
 1.Login Sebagai Admin
   username = admin
   password = 123
-2.Login Sebagai user/peminjam
+2.Login Sebagai user
   -username = user
    password = 123
   -username = benclung
