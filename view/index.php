@@ -105,7 +105,7 @@ $model = new model();
                               <div><img src="../assets/images/img-1.png" class="image_1"></div>
                            </div>
                         </div>
-                        <div class="button_main"><button class="all_text">All</button><input type="text" class="Enter_text" placeholder="Apa yang Anda Cari" name=""><button class="search_text">Search</button></div>
+                        <div class="button_main"><form action="products.php" method="get"><button class="all_text">All</button><input type="text" class="Enter_text" placeholder="Apa yang Anda Cari" name="cari"><button type="submit" class="search_text">Search</button></form></div>
                      </div>
                   </div>
                   <div class="carousel-item">
@@ -122,7 +122,7 @@ $model = new model();
                               <div><img src="../assets/images/img-1.png" class="image_1"></div>
                            </div>
                         </div>
-                        <div class="button_main"><button class="all_text">All</button><input type="text" class="Enter_text" placeholder="Enter keywords" name=""><button class="search_text">Search</button></div>
+                        <div class="button_main"><form action="products.php" method="get"><button class="all_text">All</button><input type="text" class="Enter_text" placeholder="Apa yang Anda Cari" name="cari"><button type="submit" class="search_text">Search</button></form></div>
                      </div>
                   </div>
                   <div class="carousel-item">
@@ -139,7 +139,7 @@ $model = new model();
                               <div><img src="../assets/images/img-1.png" class="image_1"></div>
                            </div>
                         </div>
-                        <div class="button_main"><button class="all_text">All</button><input type="text" class="Enter_text" placeholder="Enter keywords" name=""><button class="search_text">Search</button></div>
+                        <div class="button_main"><form action="products.php" method="get"><button class="all_text">All</button><input type="text" class="Enter_text" placeholder="Apa yang Anda Cari" name="cari"><button type="submit" class="search_text">Search</button></form></div>
                      </div>
                   </div>
                </div>
